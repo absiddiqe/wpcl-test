@@ -30,7 +30,7 @@ public class EmployeeManager {
                 int idx = rand.nextInt(e.length);
                 System.out.println(e[idx]);
             } catch (Exception e) {
-
+`
             }
             System.out.println("Data Loaded.");
         } 
