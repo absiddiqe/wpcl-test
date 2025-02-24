@@ -1,0 +1,4 @@
+# Exclude temporary lock files (e.g., .~lock.*.docx#)
+.~lock.*
+# Exclude compiled Java class files
+*.class
